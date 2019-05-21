@@ -1,7 +1,3 @@
 #test Demo
 
-hii this is a test file
-
-
-
-Just some updates..
+Some update Readme file on branch
